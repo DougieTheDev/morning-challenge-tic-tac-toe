@@ -8,6 +8,6 @@
 
 # I feel good about my code: 4.5
 
-# I'm okay with my code. Once I figured out all functions should be in a constructor 
-# it gave me somewhere to start. changed up the code a lot and kept rearranging which 
-# function went in which order but it ultimately ended up working.
+I'm okay with my code. Once I figured out all functions should be in a constructor <br>
+it gave me somewhere to start. changed up the code a lot and kept rearranging which <br>
+function went in which order but it ultimately ended up working<br>
